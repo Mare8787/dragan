@@ -256,15 +256,14 @@
    
 </head>
 <body>
-
-    <!-- Live Picture -->
-    <div class="live-picture" id="livePicture"></div>
-
     <header>
         <h1>Dragan Stojanovic Online Fitness Coach</h1>
         
         <div class="sub-header">
             <div class="slider">
+                <!-- Live Picture -->
+    <div class="live-picture" id="livePicture"></div>
+
                 <div class="slider-container">
                     <img src="https://fitnessclub247.com/wp-content/uploads/2017/01/MelliehaFitnessClub2-910x1024.jpeg" alt="Slide 1">
                     <img src="https://fitnessclub247.com/wp-content/uploads/2017/01/MelliehaFitnessClub5-910x1024.jpeg" alt="Slide 2">
